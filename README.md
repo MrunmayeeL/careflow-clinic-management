@@ -1,9 +1,5 @@
 # 🏥 CareFlow Clinic Management System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![React Version](https://img.shields.io/badge/React-19.2-blue.svg)](https://react.dev/)
-[![FastAPI Version](https://img.shields.io/badge/FastAPI-Latest-green.svg)](https://fastapi.tiangolo.com/)
-[![Database](https://img.shields.io/badge/Database-Oracle%20SQL-red.svg)](https://www.oracle.com/database/)
 
 CareFlow is a modern, full-stack Clinic Management System built to streamline daily healthcare operations. It provides a role-based portal for Patients, Doctors, and Administrators, backed by a FastAPI backend and a robust Oracle SQL database engine utilizing advanced PL/SQL triggers and analytical views.
 
