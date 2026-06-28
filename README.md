@@ -42,6 +42,9 @@ graph TD
     end
 ```
 
+### 📊 Database Schema (ER Diagram)
+![Entity-Relationship Diagram](ER.jpeg)
+
 ---
 
 ## 🛠️ Technology Stack
